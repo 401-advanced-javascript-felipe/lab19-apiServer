@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-felipe/lab19-apiServer/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/401-advanced-javascript-felipe/lab19-apiServer/builds/116385581)
 
 ### Setup
 #### `.env` requirements
@@ -22,6 +22,9 @@
   * Sends string and publishes an event to server
 * Endpoint: `DELETE /database`
   * Sends string and publishes an event to server
+
+#### Running test
+* `npm test`
 
 #### UML
 ![](./assets/----.jpg)
