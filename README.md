@@ -25,6 +25,3 @@
 
 #### Running test
 * `npm test`
-
-#### UML
-![](./assets/----.jpg)
