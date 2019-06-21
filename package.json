@@ -1,0 +1,29 @@
+{
+  "name": "apiServer",
+  "version": "1.0.0",
+  "description": "## Project Name",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint server.js index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-felipe/lab19-apiServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-felipe/lab19-apiServer/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-felipe/lab19-apiServer#readme",
+  "dependencies": {
+    "@nmq/q": "^1.0.3",
+    "dotenv": "^8.0.0",
+    "eslint": "^5.16.0",
+    "express": "^4.17.1",
+    "jest": "^24.8.0"
+  }
+}
